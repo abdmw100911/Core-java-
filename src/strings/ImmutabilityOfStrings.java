@@ -12,6 +12,8 @@ public class ImmutabilityOfStrings {
 		
 		System.out.println(name);
 		System.out.println(name.hashCode());
+		//notice that the hashcode will change , coz hashcode is made from the reference address stored
+		//inside name
 		
 		//here only one object is created to store "abdullah" and reference of that object is given to 
 		//both s1 and s2
