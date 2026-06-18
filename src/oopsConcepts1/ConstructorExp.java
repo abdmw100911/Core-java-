@@ -1,6 +1,8 @@
 package oopsConcepts1;
 
 class Human1{
+	//constructor is a special method that is automatically called when object is
+	//created
 	
 	/*constructor : accessSpecifier constructorName(){
 	 * 
